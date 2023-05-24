@@ -1,6 +1,6 @@
 # Whiteboard segmentation application
 This is the repo for our whiteboard segmentation application. The repo consists of 3 folders:
-* **Model Analysis:** This folder contains the scripts use to analyse the various models.
+* **Model Analysis:** This folder contains the scripts used to analyse the various models.
 * **Training:** This folder contains the scripts used to train the YOLO model.
 * **Whiteboard Application:** This folder contains the Android app, meant to utilze the segmentation model.
 
